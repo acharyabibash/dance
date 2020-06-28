@@ -2,3 +2,4 @@ dance left
 dance right
 up
 down
+spin
